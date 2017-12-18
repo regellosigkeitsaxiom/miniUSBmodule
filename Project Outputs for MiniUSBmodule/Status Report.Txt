@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MiniUSBmodule.PrjPcb]
+   Generated File[main.TXT]
+   Generated File[main.LDP]
+   Generated File[main.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 19:44:45 On 18.12.2017
