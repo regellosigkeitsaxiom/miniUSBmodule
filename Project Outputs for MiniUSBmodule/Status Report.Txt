@@ -9,4 +9,4 @@ From  : Project [MiniUSBmodule.PrjPcb]
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 19:52:14 On 18.12.2017
+Finished Output Generation At 20:02:21 On 18.12.2017
